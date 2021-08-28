@@ -1,0 +1,3 @@
+Name,Template,Host,Datastore,IpAddr,Device,Port,SerialNum,Database,PortGroup,Folder,CPULimitMHz,CPUReservationMHz,TotalRAMGB,PercentRAMRserved,SubnetMask,Gateway
+Example-VM,Linux-<FIRMWARE_NAME-RELEASE_VERSION>,<HYPERVISOR_IP>,<DATASTORE_NAME>,192.168.#.#,1000,<PORT #>,EX-1,..\Database\example.db,,Myles,750,250,0.5,100,,
+Example-VM-VLAN,Linux-<OLDER_FIRMWARE_NAME-RELEASE_VERSION>,<HYPERVISOR_IP>,<DATASTORE_NAME>,192.168.#.#,2000,<PORT #>,EX-1,..\Database\example.db,VLAN-#,Myles,1000,500,1,0,/21,<GATEWAY_ADDRESS>
