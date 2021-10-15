@@ -3,7 +3,7 @@
 By: Myles Petersen
 Date: Aug 19, 2021
 
-NOTE: TEXT IN <> HAS CONTAINS SENSITIVE INFO WHICH BEEN REMOVED. Ex: <DEFAULT_DEVICE_NUM>
+NOTE: TEXT IN <> CONTAINS SENSITIVE INFO WHICH BEEN REMOVED. Ex: <DEFAULT_DEVICE_NUM>
   
 Additions/Improvements:
     - Fixed: Bash script to set static IP
